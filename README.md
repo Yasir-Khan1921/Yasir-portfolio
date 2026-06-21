@@ -153,7 +153,7 @@ Version Control → Git & GitHub
 | Platform | Link |
 |---|---|
 | 💼 **LinkedIn** | [Yasir Khan](https://www.linkedin.com/in/yasir-khan-057415407/) |
-| ✉️ **Email** | [yasirqasierkhan807@@gmail.com] |
+| ✉️ **Email** | [yasirqasierkhan807@gmail.com] |
 </div>
 
 ---
