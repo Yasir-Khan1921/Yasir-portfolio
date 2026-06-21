@@ -35,11 +35,6 @@ My work demonstrates a commitment to quality: **test-driven development**, **cle
 ---
 
 ## ✨ Features
-
-| Feature | Description |
-|---|---|
-| 🌑 **Dark Theme** | Premium dark UI with a curated color palette and noise texture overlay |
-| 🎨 **Modern Design** | Glassmorphism navbar, gradient glows, and smooth fade-up animations |
 | 📱 **Fully Responsive** | Adapts beautifully to mobile, tablet, and desktop viewports |
 | 🖼️ **Image Carousels** | Interactive screenshot carousels for project showcases |
 | ⚡ **Fast & Lightweight** | Single-file HTML — no build tools, no frameworks, instant load |
