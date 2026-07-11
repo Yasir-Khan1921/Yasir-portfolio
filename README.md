@@ -1,167 +1,69 @@
 <div align="center">
 
-# 🚀 Yasir Khan — Portfolio
-
-**Computer Science Student · Developer · Data Enthusiast**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%20there%2C%20I%27m%20Yasir%20Khan;Data%20Analyst%20%7C%20Python%20%2B%20SQL%20%2B%20Visualization;Data%20Analytics%20Intern%20%40%20Decode%20Labs%20%26%20DevelopersHub%20Corp)](https://github.com/Yasir-Khan1921)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-khan-057415407/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasir1988gm@gmail.com)
 
-A sleek, dark-themed personal portfolio showcasing my projects, skills, and academic journey — built with pure **HTML**, **CSS**, and **JavaScript**.
-
 </div>
 
 ---
 
-## 📋 Table of Contents
+###  Currently
 
-- [About](#-about)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Projects Showcased](#-projects-showcased)
-- [Getting Started](#-getting-started)
-- [Folder Structure](#-folder-structure)
-- [Contact](#-contact)
-- [License](#-license)
+-  **Data Analytics Intern** @ [Decode Labs](https://github.com/Yasir-Khan1921/DecodeLabs-Data-Analytics-Internship-2026) — cleaning, EDA, SQL analysis & visualization on real e-commerce data
+-  **Data Science & Analytics Intern** @ [DevelopersHub Corporation](https://github.com/Yasir-Khan1921/Developer-Corporation-Data-Science-and-analytics-) — classification & regression models
+-  Completing a Computing top-up degree via distance learning
+-  Currently sharpening SQL, Power BI, and Tableau alongside the internship work
 
 ---
 
-## 👤 About
+###  Featured Repositories
 
-I'm **Yasir Khan**, a Computer Science student with hands-on experience building real-world projects across **data science**, **web development**, and **database systems**. I enjoy solving complex problems — from building environmental intelligence dashboards powered by real government datasets to architecting full-stack web applications with Flask REST APIs and ES6 JavaScript.
-
-My work demonstrates a commitment to quality: **test-driven development**, **clean architecture**, and **results-driven engineering**.
-
----
-
-## ✨ Features
-| 📱 **Fully Responsive** | Adapts beautifully to mobile, tablet, and desktop viewports |
-| 🖼️ **Image Carousels** | Interactive screenshot carousels for project showcases |
-| ⚡ **Fast & Lightweight** | Single-file HTML — no build tools, no frameworks, instant load |
-| 🔗 **SEO Friendly** | Proper meta tags, semantic HTML, and structured headings |
-| 📄 **CV Download** | Embedded base64-encoded CV accessible directly from the site |
+- **Data Analytics Internships**
+  -  [DecodeLabs-Data-Analytics-Internship-2026](https://github.com/Yasir-Khan1921/DecodeLabs-Data-Analytics-Internship-2026) — 4 projects: data cleaning, EDA, SQL analysis (16 queries, $1.26M in revenue analyzed), and visualization on a 1,200-row e-commerce dataset
+  -  [Developer-Corporation-Data-Science-and-analytics-](https://github.com/Yasir-Khan1921/Developer-Corporation-Data-Science-and-analytics-) — 5 ML projects: Iris EDA, Credit Risk (78.86% acc.), Customer Churn (86.45% acc.), Insurance Cost (R² = 0.78), Loan Acceptance (78.99% acc.)
+- **University Projects**
+  -  **Enviro Wise Dashboard** — environmental intelligence platform on real UK government data (R² = 0.9985)
+  -  **IT Helpdesk Management System** — relational MS Access database with Forms, Reports & Queries
+  -  **SBB Comic Book Encyclopedia** — Flask REST API over 38,000+ comics, full E2E test suite
+  -  **YDS Data Analysis Tool** — Python + R statistical analysis GUI (PCA, rpy2)
 
 ---
 
-## 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
-| Technology | Purpose |
-|---|---|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Structure & Semantic Markup |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Styling, Animations & Responsive Design |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Carousel Logic & Interactivity |
-| ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=google-fonts&logoColor=white) | Typography (Syne + DM Sans) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🗂️ Projects Showcased
-
-### 01 · Enviro Wise Dashboard
-> **Data Science · Environmental Intelligence**
->
-> A comprehensive environmental intelligence platform powered by real UK government datasets (DESNZ). Combines machine learning — Random Forest, Gradient Boosting, K-Means clustering — with rich visualisations. Achieved **R² = 0.9985** on the GBR CO₂ model.
->
-> `Python` `scikit-learn` `Matplotlib` `Pandas` `ML Pipeline`
-
-### 02 · IT Helpdesk Management System
-> **Database Management · IT Systems**
->
-> A fully relational Microsoft Access database for managing IT department operations. Features a custom dashboard with Forms, Reports, and Queries — handling employee records, helpdesk tickets, equipment tracking, and professional report generation.
->
-> `MS Access` `SQL Queries` `Database Design` `Forms & Reports`
-
-### 03 · SBB Comic Book Encyclopedia
-> **Full-Stack Web · REST API**
->
-> A full-stack web application for exploring **38,039 comics** from the British Library's Comics Unmasked collection. All **18 automated tests** (unit, integration, performance, E2E) pass with 100% success. API endpoints respond in under **25ms**.
->
-> `Python Flask` `JavaScript ES6` `REST API` `Playwright E2E` `pytest`
-
-### 04 · YDS Data Analysis Tool
-> **GUI Application · Statistical Analysis**
->
-> A desktop GUI application built with Tkinter that bridges Python and R for advanced statistical analysis. Supports PCA, multiple chart types, R script execution via rpy2, JSON config, and logging — all within a single polished interface.
->
-> `Python` `Tkinter GUI` `R / rpy2` `Pandas` `Seaborn` `PCA`
-
-### 05 · ATA Martial Arts Fee Calculator
-> **Python CLI · Business Logic**
->
-> A command-line application for managing athlete registrations and monthly fee calculations. Handles three training plans, private coaching hours, competition eligibility, and automatic weight category assignment with robust input validation.
->
-> `Python` `CLI App` `OOP` `Input Validation` `Business Logic`
-
----
-
-## 🚀 Getting Started
-
-No build tools or dependencies required — just open the HTML file in your browser!
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/portfolio.git
-
-# Navigate to the project
-cd portfolio
-
-# Open in your default browser
-open yasir_portfolio.html        # macOS
-# xdg-open yasir_portfolio.html  # Linux
-# start yasir_portfolio.html     # Windows
-```
-
-Or simply **double-click** the `yasir_portfolio.html` file.
-
----
-
-## 📁 Folder Structure
-
-```
-portpolio/
-├── yasir_portfolio.html   # Main portfolio file (HTML + CSS + JS)
-└── README.md              # This file
-```
-
----
-
-## 🛡️ Skills & Tools
-
-```
-Languages       → Python · JavaScript (ES6) · R · SQL · HTML · CSS
-Frameworks      → Flask · REST APIs · Tkinter
-Data Science    → Pandas · NumPy · scikit-learn · Matplotlib · Seaborn
-Database        → MS Access · SQL Queries · Relational Design
-Testing         → pytest · Playwright (E2E)
-Version Control → Git & GitHub
-```
-
----
-
-## 📬 Contact
+###  GitHub Stats
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 💼 **LinkedIn** | [Yasir Khan](https://www.linkedin.com/in/yasir-khan-057415407/) |
-| ✉️ **Email** | [yasirqasierkhan807@gmail.com] |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yasir-Khan1921&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Khan1921&layout=compact&theme=tokyonight&hide_border=true" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yasir-Khan1921&theme=tokyonight&hide_border=true)
+
 </div>
-
----
-
-## 📜 License
-
-© 2025 **Yasir Khan**. All rights reserved.
 
 ---
 
 <div align="center">
 
-**Built with ❤️ using HTML · CSS · JavaScript**
+** Always open to data analytics opportunities and collaborations — reach out above.**
 
 </div>
-
