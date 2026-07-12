@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%20there%2C%20I%27m%20Yasir%20Khan;Data%20Analyst%20%7C%20Python%20%2B%20SQL%20%2B%20Visualization;Data%20Analytics%20Intern%20%40%20Decode%20Labs%20%26%20DevelopersHub%20Corp)](https://github.com/Yasir-Khan1921)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-khan-057415407/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasir1988gm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirqiaserkhan807@gmail.com)
 
 </div>
 
